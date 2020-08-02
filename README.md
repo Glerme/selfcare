@@ -17,6 +17,10 @@
 </p>
 
 
+Página criada com o objetivo de praticar layout de paginas responsivas.
+
+
+
 
 # Devchallenge 
 <a href="https://devchallenge.now.sh/">DevChallenge</a> permite que você evolua suas skills como programador!
