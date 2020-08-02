@@ -1,0 +1,54 @@
+/* UNIVERSAIS */
+
+:root{
+    --verde: #5CA720;
+    --preto: #161616;
+}
+
+body{
+    font-family: 'Lato';
+    color: #f2f2f2;
+}
+
+
+.preto{
+    color: var(--preto);
+}
+
+.verde{
+    color: var(--verde);
+}
+
+a:hover{
+    text-decoration: none;
+    color: var(--verde);
+}
+
+
+/* logo */
+.logo{
+    background-image: url(/assets/estrela.svg);
+}
+
+
+
+/* footer */
+footer{
+    background-color: #F9F9F9;
+}
+
+.borda{
+    border-top: 1px dotted #A5A1A1;
+    border-bottom: 1px dotted #A5A1A1;
+    padding: 15px;
+}
+
+.borda ul li{
+    list-style: none;
+}
+
+
+
+.borda-baixo{
+    padding: 15px;
+}
